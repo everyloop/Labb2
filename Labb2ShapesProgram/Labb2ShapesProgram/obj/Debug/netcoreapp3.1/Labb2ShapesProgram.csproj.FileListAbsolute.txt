@@ -1,0 +1,12 @@
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/bin/Debug/netcoreapp3.1/Labb2ShapesProgram.deps.json
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/bin/Debug/netcoreapp3.1/Labb2ShapesProgram.runtimeconfig.json
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/bin/Debug/netcoreapp3.1/Labb2ShapesProgram.runtimeconfig.dev.json
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/bin/Debug/netcoreapp3.1/Labb2ShapesProgram.dll
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/bin/Debug/netcoreapp3.1/Labb2ShapesProgram.pdb
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.csprojAssemblyReference.cache
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.AssemblyInfoInputs.cache
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.AssemblyInfo.cs
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.csproj.CoreCompileInputs.cache
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.dll
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.pdb
+/Users/ambermetini/Projects/Labb2ShapesProgram/Labb2ShapesProgram/obj/Debug/netcoreapp3.1/Labb2ShapesProgram.genruntimeconfig.cache

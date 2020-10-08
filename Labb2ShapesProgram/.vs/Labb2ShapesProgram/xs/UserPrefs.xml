@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{87B1F077-3277-4D08-BF77-892D8A9ECAE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb2ShapesProgram/Program.cs">
+    <Files>
+      <File FileName="Labb2ShapesProgram/Program.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labb2ShapesProgram" expanded="True">
+            <Node name="Labb2ShapesProgram" expanded="True">
+              <Node name="Dependencies" expanded="True" selected="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Labb2ShapesProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

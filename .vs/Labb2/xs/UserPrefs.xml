@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{12E6E1B9-3104-4E8D-B00A-7BC24C9398E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb2Library/Class1.cs">
+    <Files>
+      <File FileName="Labb2Library/Circle 2D.cs" Line="32" Column="1" />
+      <File FileName="Labb2Library/Rectangle 2D.cs" />
+      <File FileName="Labb2Library/Sphere 3D.cs" />
+      <File FileName="Labb2Library/Shape3D.cs" />
+      <File FileName="Labb2Library/Cuboid 3D.cs" />
+      <File FileName="Labb2Library/Shape2D.cs" />
+      <File FileName="Labb2Library/Class1.cs" Line="1" Column="1" />
+      <File FileName="Labb2Library/Triangle 2D.cs" />
+      <File FileName="Labb2Library/Lab2ShapeGeneratorProgram/Lab2ShapeGeneratorProgram.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labb2" expanded="True">
+            <Node name="Lab2ShapeGeneratorProgram" expanded="True" />
+            <Node name="Labb2Library" expanded="True">
+              <Node name="Lab2ShapeGeneratorProgram" expanded="True" />
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab2ShapeGeneratorProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

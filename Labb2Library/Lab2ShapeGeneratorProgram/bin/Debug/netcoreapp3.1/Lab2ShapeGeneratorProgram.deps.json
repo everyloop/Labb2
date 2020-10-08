@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab2ShapeGeneratorProgram/1.0.0": {
+        "dependencies": {
+          "Labb2Library": "1.0.0"
+        },
+        "runtime": {
+          "Lab2ShapeGeneratorProgram.dll": {}
+        }
+      },
+      "Labb2Library/1.0.0": {
+        "runtime": {
+          "Labb2Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2ShapeGeneratorProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labb2Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

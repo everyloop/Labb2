@@ -1,0 +1,14 @@
+/Users/ambermetini/Projects/Labb2/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.deps.json
+/Users/ambermetini/Projects/Labb2/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.dll
+/Users/ambermetini/Projects/Labb2/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.pdb
+/Users/ambermetini/Projects/Labb2/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.csproj.CoreCompileInputs.cache
+/Users/ambermetini/Projects/Labb2/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.dll
+/Users/ambermetini/Projects/Labb2/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.pdb
+/Users/ambermetini/Projects/Labb2/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.csprojAssemblyReference.cache
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.deps.json
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.dll
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/bin/Debug/netstandard2.1/Labb2Library.pdb
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.csprojAssemblyReference.cache
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.csproj.CoreCompileInputs.cache
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.dll
+/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/obj/Debug/netstandard2.1/Labb2Library.pdb

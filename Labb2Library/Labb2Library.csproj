@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Lab2ShapeGeneratorProgram\Program.cs" />
+    <Compile Remove="Lab2ShapeGeneratorProgram\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="Class1.cs">
+      <IncludeInPackage>true</IncludeInPackage>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Lab2ShapeGeneratorProgram\obj\Lab2ShapeGeneratorProgram.csproj.nuget.g.targets" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\Lab2ShapeGeneratorProgram.csproj.nuget.dgspec.json" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\project.nuget.cache" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\Lab2ShapeGeneratorProgram.csproj.nuget.g.props" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\project.assets.json" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\Debug\netcoreapp3.1\Lab2ShapeGeneratorProgram.assets.cache" />
+    <None Remove="Lab2ShapeGeneratorProgram\obj\Debug\netcoreapp3.1\Lab2ShapeGeneratorProgram.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>
