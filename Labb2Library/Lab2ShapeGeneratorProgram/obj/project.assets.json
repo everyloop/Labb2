@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Lab2ShapeGeneratorProgram/Lab2ShapeGeneratorProgram.csproj",
+      "projectUniqueName": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Lab2ShapeGeneratorProgram/Lab2ShapeGeneratorProgram.csproj",
       "projectName": "Lab2ShapeGeneratorProgram",
-      "projectPath": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Lab2ShapeGeneratorProgram/Lab2ShapeGeneratorProgram.csproj",
+      "projectPath": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Lab2ShapeGeneratorProgram/Lab2ShapeGeneratorProgram.csproj",
       "packagesPath": "/Users/ambermetini/.nuget/packages/",
-      "outputPath": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Lab2ShapeGeneratorProgram/obj/",
+      "outputPath": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Lab2ShapeGeneratorProgram/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ambermetini/.config/NuGet/NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Labb2Library.csproj": {
-              "projectPath": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Labb2Library.csproj"
+            "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Labb2Library.csproj": {
+              "projectPath": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Labb2Library.csproj"
             }
           }
         }

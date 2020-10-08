@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Labb2Library.csproj",
+      "projectUniqueName": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Labb2Library.csproj",
       "projectName": "Labb2Library",
-      "projectPath": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/Labb2Library.csproj",
+      "projectPath": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/Labb2Library.csproj",
       "packagesPath": "/Users/ambermetini/.nuget/packages/",
-      "outputPath": "/Users/ambermetini/Projects/Labb2-Fixed/Labb2Library/obj/",
+      "outputPath": "/Users/ambermetini/Projects/temp/Labb2/Labb2Library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ambermetini/.config/NuGet/NuGet.Config"
